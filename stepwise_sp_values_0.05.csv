@@ -1,0 +1,373 @@
+NAMELSAD,std_dev_all,std_dev_2,std_dev_3,std_dev_4,std_dev_5,std_dev_6,std_dev_7,std_dev_8,std_dev_9,std_dev_10,std_dev_11,std_dev_12,std_dev_13,std_dev_14,std_dev_15,avg_std_dev_2_to_4
+"Abilene, TX Metro Area",,,,,,,,,,,,,,,,
+"Akron, OH Metro Area",0.4425,1.7396,0.4425,,,,,,,,,,,,,
+"Albany, GA Metro Area",,,,,,,,,,,,,,,,
+"Albany-Lebanon, OR Metro Area",,,,,,,,,,,,,,,,
+"Albany-Schenectady-Troy, NY Metro Area",0.5549,1.7313,1.3186,0.7113,0.5729,0.5501,0.547,0.5549,,,,,,,,1.2834
+"Albuquerque, NM Metro Area",0.5916,0.5883,0.4267,0.4977,0.5916,,,,,,,,,,,0.5085
+"Alexandria, LA Metro Area",0.5151,0.5151,,,,,,,,,,,,,,
+"Allentown-Bethlehem-Easton, PA-NJ Metro Area",0.6319,0.6319,,,,,,,,,,,,,,
+"Altoona, PA Metro Area",0.1385,0.1385,,,,,,,,,,,,,,
+"Amarillo, TX Metro Area",0.1613,0.1613,,,,,,,,,,,,,,
+"Ames, IA Metro Area",,,,,,,,,,,,,,,,
+"Ann Arbor, MI Metro Area",0.2416,0.1318,0.2416,,,,,,,,,,,,,
+"Anniston-Oxford, AL Metro Area",,,,,,,,,,,,,,,,
+"Appleton, WI Metro Area",,,,,,,,,,,,,,,,
+"Asheville, NC Metro Area",0.0488,0.0488,,,,,,,,,,,,,,
+"Athens-Clarke County, GA Metro Area",,,,,,,,,,,,,,,,
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",0.9478,0.4038,0.5185,0.6679,0.7495,0.7961,0.8366,0.87,0.8971,0.9175,0.9347,0.9478,,,,0.5223
+"Atlantic City-Hammonton, NJ Metro Area",,,,,,,,,,,,,,,,
+"Auburn-Opelika, AL Metro Area",0.8103,0.8103,,,,,,,,,,,,,,
+"Augusta-Richmond County, GA-SC Metro Area",,,,,,,,,,,,,,,,
+"Austin-Round Rock-Georgetown, TX Metro Area",0.5963,1.0912,0.5057,0.4782,0.5349,0.5963,,,,,,,,,,0.7138
+"Bakersfield, CA Metro Area",0.1714,0.0464,0.1714,,,,,,,,,,,,,
+"Baltimore-Columbia-Towson, MD Metro Area",0.8421,0.1638,0.2713,0.4251,0.5593,0.6625,0.7388,0.7971,0.8421,,,,,,,0.2791
+"Bangor, ME Metro Area",,,,,,,,,,,,,,,,
+"Barnstable Town, MA Metro Area",0.4511,0.4511,,,,,,,,,,,,,,
+"Baton Rouge, LA Metro Area",0.0579,0.0579,,,,,,,,,,,,,,
+"Battle Creek, MI Metro Area",0.1376,0.1376,,,,,,,,,,,,,,
+"Bay City, MI Metro Area",,,,,,,,,,,,,,,,
+"Beaumont-Port Arthur, TX Metro Area",0.7576,1.0645,1.1412,0.863,0.7957,0.7576,,,,,,,,,,1.0267
+"Beckley, WV Metro Area",,,,,,,,,,,,,,,,
+"Bellingham, WA Metro Area",0.1367,0.1367,,,,,,,,,,,,,,
+"Bend, OR Metro Area",,,,,,,,,,,,,,,,
+"Billings, MT Metro Area",0.2046,0.2046,,,,,,,,,,,,,,
+"Binghamton, NY Metro Area",0.4603,0.4341,0.4603,,,,,,,,,,,,,
+"Birmingham-Hoover, AL Metro Area",0.134,0.134,,,,,,,,,,,,,,
+"Bismarck, ND Metro Area",,,,,,,,,,,,,,,,
+"Blacksburg-Christiansburg, VA Metro Area",0.4437,0.3728,0.4437,,,,,,,,,,,,,
+"Bloomington, IL Metro Area",,,,,,,,,,,,,,,,
+"Bloomington, IN Metro Area",,,,,,,,,,,,,,,,
+"Boise City, ID Metro Area",0.6835,0.6089,0.5556,0.6158,0.6835,,,,,,,,,,,0.5939
+"Boston-Cambridge-Newton, MA-NH Metro Area",0.7238,0.2087,0.338,0.5048,0.6316,0.7238,,,,,,,,,,0.3418
+"Boulder, CO Metro Area",0.1039,0.1039,,,,,,,,,,,,,,
+"Bowling Green, KY Metro Area",,,,,,,,,,,,,,,,
+"Bremerton-Silverdale-Port Orchard, WA Metro Area",0.0901,0.0901,,,,,,,,,,,,,,
+"Bridgeport-Stamford-Norwalk, CT Metro Area",0.3796,1.592,0.3796,,,,,,,,,,,,,
+"Brownsville-Harlingen, TX Metro Area",0.4868,0.4071,0.4868,,,,,,,,,,,,,
+"Brunswick, GA Metro Area",0.6602,0.6602,,,,,,,,,,,,,,
+"Buffalo-Cheektowaga, NY Metro Area",0.3276,0.2579,0.3276,,,,,,,,,,,,,
+"Burlington, NC Metro Area",0.1232,0.1232,,,,,,,,,,,,,,
+"Burlington-South Burlington, VT Metro Area",0.4599,0.3717,0.4599,,,,,,,,,,,,,
+"California-Lexington Park, MD Metro Area",,,,,,,,,,,,,,,,
+"Canton-Massillon, OH Metro Area",0.0932,0.0932,,,,,,,,,,,,,,
+"Cape Coral-Fort Myers, FL Metro Area",0.6551,1.6387,0.8851,0.6567,0.6177,0.6325,0.6382,0.6551,,,,,,,,1.0932
+"Cape Girardeau, MO-IL Metro Area",,,,,,,,,,,,,,,,
+"Carson City, NV Metro Area",1.0009,1.2065,1.0009,,,,,,,,,,,,,
+"Casper, WY Metro Area",,,,,,,,,,,,,,,,
+"Cedar Rapids, IA Metro Area",,,,,,,,,,,,,,,,
+"Champaign-Urbana, IL Metro Area",,,,,,,,,,,,,,,,
+"Charleston, WV Metro Area",0.2266,0.2266,,,,,,,,,,,,,,
+"Charleston-North Charleston, SC Metro Area",0.6042,0.5081,0.6042,,,,,,,,,,,,,
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",0.8522,0.2215,0.3132,0.4662,0.5899,0.6858,0.7569,0.8116,0.8522,,,,,,,0.3266
+"Charlottesville, VA Metro Area",,,,,,,,,,,,,,,,
+"Chattanooga, TN-GA Metro Area",0.1434,0.1434,,,,,,,,,,,,,,
+"Cheyenne, WY Metro Area",,,,,,,,,,,,,,,,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",0.942,0.2063,0.2865,0.4414,0.573,0.6744,0.7461,0.8008,0.8431,0.8765,0.9031,0.9247,0.942,,,0.3048
+"Chico, CA Metro Area",0.1505,0.1505,,,,,,,,,,,,,,
+"Cincinnati, OH-KY-IN Metro Area",0.6698,0.8145,0.5783,0.5724,0.6183,0.6698,,,,,,,,,,0.6638
+"Clarksville, TN-KY Metro Area",,,,,,,,,,,,,,,,
+"Cleveland, TN Metro Area",,,,,,,,,,,,,,,,
+"Cleveland-Elyria, OH Metro Area",0.9162,0.6068,0.6198,0.6712,0.7181,0.7561,0.7948,0.8281,0.8568,0.8802,0.8999,0.9162,,,,0.6309
+"Coeur d'Alene, ID Metro Area",,,,,,,,,,,,,,,,
+"College Station-Bryan, TX Metro Area",,,,,,,,,,,,,,,,
+"Colorado Springs, CO Metro Area",1.6749,1.6749,,,,,,,,,,,,,,
+"Columbia, MO Metro Area",0.3191,0.3191,,,,,,,,,,,,,,
+"Columbia, SC Metro Area",,,,,,,,,,,,,,,,
+"Columbus, GA-AL Metro Area",,,,,,,,,,,,,,,,
+"Columbus, IN Metro Area",,,,,,,,,,,,,,,,
+"Columbus, OH Metro Area",0.7615,0.8492,0.669,0.6336,0.6791,0.7251,0.7615,,,,,,,,,0.7247
+"Corpus Christi, TX Metro Area",0.0188,0.0188,,,,,,,,,,,,,,
+"Corvallis, OR Metro Area",,,,,,,,,,,,,,,,
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",0.3236,0.3236,,,,,,,,,,,,,,
+"Cumberland, MD-WV Metro Area",,,,,,,,,,,,,,,,
+"Dallas-Fort Worth-Arlington, TX Metro Area",0.8814,1.2203,1.3721,1.3301,1.1313,1.0608,1.0223,1.0016,0.9809,0.952,0.9313,0.9087,0.8945,0.8857,0.8804,1.303
+"Dalton, GA Metro Area",,,,,,,,,,,,,,,,
+"Danville, IL Metro Area",,,,,,,,,,,,,,,,
+"Daphne-Fairhope-Foley, AL Metro Area",,,,,,,,,,,,,,,,
+"Davenport-Moline-Rock Island, IA-IL Metro Area",0.3791,1.8912,0.3791,,,,,,,,,,,,,
+"Dayton-Kettering, OH Metro Area",0.086,0.086,,,,,,,,,,,,,,
+"Decatur, AL Metro Area",0.1544,0.1544,,,,,,,,,,,,,,
+"Decatur, IL Metro Area",,,,,,,,,,,,,,,,
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",0.5101,0.3748,0.4205,0.5101,,,,,,,,,,,,0.4313
+"Denver-Aurora-Lakewood, CO Metro Area",0.5864,1.9694,1.1755,0.7611,0.6708,0.5696,0.5415,0.5438,0.5563,0.5704,0.5864,,,,,1.341
+"Des Moines-West Des Moines, IA Metro Area",0.5576,0.1316,0.2499,0.4214,0.5576,,,,,,,,,,,0.2592
+"Detroit-Warren-Dearborn, MI Metro Area",0.7984,1.3816,1.6074,1.2326,0.9685,0.853,0.7668,0.7345,0.7248,0.7191,0.7218,0.7274,0.735,0.7434,0.7522,1.4079
+"Dothan, AL Metro Area",,,,,,,,,,,,,,,,
+"Dover, DE Metro Area",0.1973,0.1973,,,,,,,,,,,,,,
+"Dubuque, IA Metro Area",,,,,,,,,,,,,,,,
+"Duluth, MN-WI Metro Area",0.1317,0.1317,,,,,,,,,,,,,,
+"Durham-Chapel Hill, NC Metro Area",1.1865,1.1865,,,,,,,,,,,,,,
+"East Stroudsburg, PA Metro Area",0.4459,0.4459,,,,,,,,,,,,,,
+"Eau Claire, WI Metro Area",,,,,,,,,,,,,,,,
+"El Centro, CA Metro Area",1.2223,1.2223,,,,,,,,,,,,,,
+"El Paso, TX Metro Area",0.5057,0.6202,0.447,0.5057,,,,,,,,,,,,0.5292
+"Elizabethtown-Fort Knox, KY Metro Area",1.3368,1.3368,,,,,,,,,,,,,,
+"Elkhart-Goshen, IN Metro Area",,,,,,,,,,,,,,,,
+"Elmira, NY Metro Area",0.7195,0.7195,,,,,,,,,,,,,,
+"Enid, OK Metro Area",,,,,,,,,,,,,,,,
+"Erie, PA Metro Area",0.0737,0.0737,,,,,,,,,,,,,,
+"Eugene-Springfield, OR Metro Area",,,,,,,,,,,,,,,,
+"Evansville, IN-KY Metro Area",,,,,,,,,,,,,,,,
+"Fargo, ND-MN Metro Area",,,,,,,,,,,,,,,,
+"Farmington, NM Metro Area",,,,,,,,,,,,,,,,
+"Fayetteville, NC Metro Area",0.5052,0.4174,0.3884,0.5052,,,,,,,,,,,,0.4353
+"Fayetteville-Springdale-Rogers, AR Metro Area",0.4167,0.5145,0.4167,,,,,,,,,,,,,
+"Flagstaff, AZ Metro Area",,,,,,,,,,,,,,,,
+"Flint, MI Metro Area",0.5518,0.1471,0.2686,0.4209,0.5518,,,,,,,,,,,0.2708
+"Florence, SC Metro Area",0.2757,0.2757,,,,,,,,,,,,,,
+"Florence-Muscle Shoals, AL Metro Area",,,,,,,,,,,,,,,,
+"Fond du Lac, WI Metro Area",,,,,,,,,,,,,,,,
+"Fort Collins, CO Metro Area",,,,,,,,,,,,,,,,
+"Fort Smith, AR-OK Metro Area",,,,,,,,,,,,,,,,
+"Fort Wayne, IN Metro Area",0.2327,0.1004,0.2327,,,,,,,,,,,,,
+"Fresno, CA Metro Area",0.3899,0.1175,0.2195,0.3899,,,,,,,,,,,,0.2345
+"Gadsden, AL Metro Area",,,,,,,,,,,,,,,,
+"Gainesville, FL Metro Area",0.0919,0.0919,,,,,,,,,,,,,,
+"Gainesville, GA Metro Area",,,,,,,,,,,,,,,,
+"Glens Falls, NY Metro Area",0.4685,0.4685,,,,,,,,,,,,,,
+"Goldsboro, NC Metro Area",,,,,,,,,,,,,,,,
+"Grand Forks, ND-MN Metro Area",,,,,,,,,,,,,,,,
+"Grand Island, NE Metro Area",,,,,,,,,,,,,,,,
+"Grand Junction, CO Metro Area",0.4172,0.4172,,,,,,,,,,,,,,
+"Grand Rapids-Kentwood, MI Metro Area",0.0371,0.0371,,,,,,,,,,,,,,
+"Grants Pass, OR Metro Area",,,,,,,,,,,,,,,,
+"Great Falls, MT Metro Area",,,,,,,,,,,,,,,,
+"Greeley, CO Metro Area",0.5817,0.1455,0.2823,0.4569,0.5817,,,,,,,,,,,0.2857
+"Green Bay, WI Metro Area",0.5337,1.3905,0.5337,,,,,,,,,,,,,
+"Greensboro-High Point, NC Metro Area",0.3492,0.4199,0.3492,,,,,,,,,,,,,
+"Greenville, NC Metro Area",,,,,,,,,,,,,,,,
+"Greenville-Anderson, SC Metro Area",0.0412,0.0412,,,,,,,,,,,,,,
+"Gulfport-Biloxi, MS Metro Area",0.9564,1.2206,1.3203,1.0709,0.9564,,,,,,,,,,,1.2063
+"Hagerstown-Martinsburg, MD-WV Metro Area",,,,,,,,,,,,,,,,
+"Hammond, LA Metro Area",,,,,,,,,,,,,,,,
+"Hanford-Corcoran, CA Metro Area",,,,,,,,,,,,,,,,
+"Harrisburg-Carlisle, PA Metro Area",0.4118,0.1469,0.2557,0.4118,,,,,,,,,,,,0.2637
+"Harrisonburg, VA Metro Area",,,,,,,,,,,,,,,,
+"Hartford-East Hartford-Middletown, CT Metro Area",0.55,0.7898,0.5489,0.55,,,,,,,,,,,,0.6384
+"Hattiesburg, MS Metro Area",,,,,,,,,,,,,,,,
+"Hickory-Lenoir-Morganton, NC Metro Area",,,,,,,,,,,,,,,,
+"Hilton Head Island-Bluffton, SC Metro Area",,,,,,,,,,,,,,,,
+"Hinesville, GA Metro Area",,,,,,,,,,,,,,,,
+"Homosassa Springs, FL Metro Area",1.2056,1.2056,,,,,,,,,,,,,,
+"Hot Springs, AR Metro Area",,,,,,,,,,,,,,,,
+"Houma-Thibodaux, LA Metro Area",0.4818,0.5328,0.4818,,,,,,,,,,,,,
+"Houston-The Woodlands-Sugar Land, TX Metro Area",0.9789,0.115,0.2328,0.4063,0.543,0.6488,0.7278,0.7873,0.8334,0.8695,0.8981,0.9211,0.9399,0.9553,0.9682,0.2429
+"Huntington-Ashland, WV-KY-OH Metro Area",,,,,,,,,,,,,,,,
+"Huntsville, AL Metro Area",0.1587,0.1587,,,,,,,,,,,,,,
+"Idaho Falls, ID Metro Area",,,,,,,,,,,,,,,,
+"Indianapolis-Carmel-Anderson, IN Metro Area",0.8973,0.9244,0.9925,0.7475,0.7091,0.7253,0.7547,0.7854,0.8128,0.8362,0.8555,0.8722,0.8864,0.8973,,0.8915
+"Iowa City, IA Metro Area",0.2169,0.2169,,,,,,,,,,,,,,
+"Ithaca, NY Metro Area",0.4366,0.4366,,,,,,,,,,,,,,
+"Jackson, MI Metro Area",,,,,,,,,,,,,,,,
+"Jackson, MS Metro Area",0.2276,0.0984,0.2276,,,,,,,,,,,,,
+"Jackson, TN Metro Area",,,,,,,,,,,,,,,,
+"Jacksonville, FL Metro Area",0.8548,1.079,1.2122,1.0708,0.9277,0.8858,0.8581,0.8511,0.8548,,,,,,,1.1192
+"Jacksonville, NC Metro Area",0.2572,0.2572,,,,,,,,,,,,,,
+"Janesville-Beloit, WI Metro Area",1.5838,1.5838,,,,,,,,,,,,,,
+"Jefferson City, MO Metro Area",0.5424,0.5424,,,,,,,,,,,,,,
+"Johnson City, TN Metro Area",0.1875,0.1875,,,,,,,,,,,,,,
+"Johnstown, PA Metro Area",0.4296,0.3082,0.4296,,,,,,,,,,,,,
+"Jonesboro, AR Metro Area",,,,,,,,,,,,,,,,
+"Joplin, MO Metro Area",0.2357,0.2357,,,,,,,,,,,,,,
+"Kalamazoo-Portage, MI Metro Area",,,,,,,,,,,,,,,,
+"Kankakee, IL Metro Area",,,,,,,,,,,,,,,,
+"Kansas City, MO-KS Metro Area",0.8738,0.9081,0.8872,0.8578,0.8085,0.8035,0.8109,0.8261,0.8433,0.859,0.8738,,,,,0.8858
+"Kennewick-Richland, WA Metro Area",0.8893,0.8893,,,,,,,,,,,,,,
+"Killeen-Temple, TX Metro Area",0.1368,0.1368,,,,,,,,,,,,,,
+"Kingsport-Bristol, TN-VA Metro Area",0.5424,1.3294,0.6027,0.5424,,,,,,,,,,,,0.8529
+"Kingston, NY Metro Area",,,,,,,,,,,,,,,,
+"Knoxville, TN Metro Area",0.0888,0.0888,,,,,,,,,,,,,,
+"Kokomo, IN Metro Area",,,,,,,,,,,,,,,,
+"La Crosse-Onalaska, WI-MN Metro Area",,,,,,,,,,,,,,,,
+"Lafayette, LA Metro Area",0.4601,0.5626,0.4601,,,,,,,,,,,,,
+"Lafayette-West Lafayette, IN Metro Area",,,,,,,,,,,,,,,,
+"Lake Charles, LA Metro Area",,,,,,,,,,,,,,,,
+"Lake Havasu City-Kingman, AZ Metro Area",0.4996,0.4996,,,,,,,,,,,,,,
+"Lakeland-Winter Haven, FL Metro Area",0.3884,0.0933,0.2277,0.3884,,,,,,,,,,,,0.2277
+"Lancaster, PA Metro Area",0.1969,0.1969,,,,,,,,,,,,,,
+"Lansing-East Lansing, MI Metro Area",0.0768,0.0768,,,,,,,,,,,,,,
+"Laredo, TX Metro Area",0.178,0.178,,,,,,,,,,,,,,
+"Las Cruces, NM Metro Area",0.1448,0.1448,,,,,,,,,,,,,,
+"Las Vegas-Henderson-Paradise, NV Metro Area",0.7669,1.5521,1.5634,1.5735,1.5717,1.5475,1.3278,1.1353,0.9893,0.8895,0.8308,0.7928,0.7669,,,1.5624
+"Lawrence, KS Metro Area",,,,,,,,,,,,,,,,
+"Lawton, OK Metro Area",,,,,,,,,,,,,,,,
+"Lebanon, PA Metro Area",0.1352,0.1352,,,,,,,,,,,,,,
+"Lewiston, ID-WA Metro Area",0.2527,0.2527,,,,,,,,,,,,,,
+"Lewiston-Auburn, ME Metro Area",,,,,,,,,,,,,,,,
+"Lexington-Fayette, KY Metro Area",0.3223,1.762,0.412,0.302,0.3223,,,,,,,,,,,0.8774
+"Lima, OH Metro Area",,,,,,,,,,,,,,,,
+"Lincoln, NE Metro Area",,,,,,,,,,,,,,,,
+"Little Rock-North Little Rock-Conway, AR Metro Area",0.5921,0.9042,0.6398,0.5921,,,,,,,,,,,,0.7228
+"Logan, UT-ID Metro Area",,,,,,,,,,,,,,,,
+"Longview, TX Metro Area",,,,,,,,,,,,,,,,
+"Longview, WA Metro Area",,,,,,,,,,,,,,,,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area",1.0401,0.2792,0.3795,0.5344,0.6593,0.7501,0.8126,0.8579,0.8925,0.9198,0.9416,0.9583,0.9708,0.9813,0.9902,0.3903
+"Louisville/Jefferson County, KY-IN Metro Area",0.3615,0.0533,0.1811,0.3615,,,,,,,,,,,,0.1896
+"Lubbock, TX Metro Area",0.4225,0.4221,0.4225,,,,,,,,,,,,,
+"Lynchburg, VA Metro Area",,,,,,,,,,,,,,,,
+"Macon-Bibb County, GA Metro Area",,,,,,,,,,,,,,,,
+"Madera, CA Metro Area",,,,,,,,,,,,,,,,
+"Madison, WI Metro Area",,,,,,,,,,,,,,,,
+"Manchester-Nashua, NH Metro Area",,,,,,,,,,,,,,,,
+"Manhattan, KS Metro Area",,,,,,,,,,,,,,,,
+"Mankato, MN Metro Area",,,,,,,,,,,,,,,,
+"Mansfield, OH Metro Area",0.2689,0.2689,,,,,,,,,,,,,,
+"McAllen-Edinburg-Mission, TX Metro Area",0.06,0.06,,,,,,,,,,,,,,
+"Medford, OR Metro Area",,,,,,,,,,,,,,,,
+"Memphis, TN-MS-AR Metro Area",0.1728,0.0493,0.1728,,,,,,,,,,,,,
+"Merced, CA Metro Area",0.6248,0.5862,0.6248,,,,,,,,,,,,,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",0.9839,0.9076,0.9512,0.8893,0.8711,0.888,0.9003,0.9066,0.91,0.9153,0.9212,0.9277,0.9342,0.9405,0.946,0.9159
+"Michigan City-La Porte, IN Metro Area",0.1639,0.1639,,,,,,,,,,,,,,
+"Midland, MI Metro Area",,,,,,,,,,,,,,,,
+"Midland, TX Metro Area",,,,,,,,,,,,,,,,
+"Milwaukee-Waukesha, WI Metro Area",1.4845,1.5789,1.4845,,,,,,,,,,,,,
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",0.4892,0.0238,0.1537,0.3376,0.4892,,,,,,,,,,,0.1626
+"Missoula, MT Metro Area",,,,,,,,,,,,,,,,
+"Mobile, AL Metro Area",0.0239,0.0239,,,,,,,,,,,,,,
+"Modesto, CA Metro Area",0.7886,1.3081,1.1768,0.7886,,,,,,,,,,,,1.1053
+"Monroe, LA Metro Area",0.3144,0.2158,0.3144,,,,,,,,,,,,,
+"Monroe, MI Metro Area",,,,,,,,,,,,,,,,
+"Montgomery, AL Metro Area",,,,,,,,,,,,,,,,
+"Morgantown, WV Metro Area",,,,,,,,,,,,,,,,
+"Morristown, TN Metro Area",,,,,,,,,,,,,,,,
+"Mount Vernon-Anacortes, WA Metro Area",,,,,,,,,,,,,,,,
+"Muncie, IN Metro Area",,,,,,,,,,,,,,,,
+"Muskegon, MI Metro Area",,,,,,,,,,,,,,,,
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",0.6853,0.2011,0.3211,0.471,0.5928,0.6853,,,,,,,,,,0.3231
+"Napa, CA Metro Area",,,,,,,,,,,,,,,,
+"Naples-Marco Island, FL Metro Area",0.4275,0.3567,0.4275,,,,,,,,,,,,,
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",0.625,1.6034,1.0502,0.8172,0.6828,0.6213,0.614,0.625,,,,,,,,1.1828
+"New Bern, NC Metro Area",,,,,,,,,,,,,,,,
+"New Haven-Milford, CT Metro Area",0.4931,0.5968,0.4285,0.4931,,,,,,,,,,,,0.5107
+"New Orleans-Metairie, LA Metro Area",0.7735,0.5165,0.6886,0.6513,0.6849,0.7293,0.7735,,,,,,,,,0.6134
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area",0.8286,1.8326,0.7205,0.4442,0.4095,0.4292,0.4687,0.5085,0.547,0.5808,0.6115,0.639,0.6632,0.6844,0.7034,1.0464
+"Niles, MI Metro Area",0.2723,0.2723,,,,,,,,,,,,,,
+"North Port-Sarasota-Bradenton, FL Metro Area",0.4981,1.3916,0.4981,,,,,,,,,,,,,
+"Norwich-New London, CT Metro Area",,,,,,,,,,,,,,,,
+"Ocala, FL Metro Area",,,,,,,,,,,,,,,,
+"Odessa, TX Metro Area",,,,,,,,,,,,,,,,
+"Ogden-Clearfield, UT Metro Area",0.8153,0.9348,0.7744,0.8108,0.8059,0.8153,,,,,,,,,,0.845
+"Oklahoma City, OK Metro Area",0.6105,1.6129,0.6508,0.4459,0.4437,0.4801,0.5278,0.571,0.6105,,,,,,,0.9433
+"Olympia-Lacey-Tumwater, WA Metro Area",,,,,,,,,,,,,,,,
+"Omaha-Council Bluffs, NE-IA Metro Area",0.447,0.1506,0.2936,0.447,,,,,,,,,,,,0.2882
+"Orlando-Kissimmee-Sanford, FL Metro Area",0.7299,1.2164,0.888,0.7247,0.6975,0.6891,0.7064,0.7299,,,,,,,,0.959
+"Oshkosh-Neenah, WI Metro Area",,,,,,,,,,,,,,,,
+"Owensboro, KY Metro Area",,,,,,,,,,,,,,,,
+"Oxnard-Thousand Oaks-Ventura, CA Metro Area",,,,,,,,,,,,,,,,
+"Palm Bay-Melbourne-Titusville, FL Metro Area",0.7229,0.3777,0.5224,0.6547,0.7229,,,,,,,,,,,0.5098
+"Panama City, FL Metro Area",,,,,,,,,,,,,,,,
+"Parkersburg-Vienna, WV Metro Area",,,,,,,,,,,,,,,,
+"Pensacola-Ferry Pass-Brent, FL Metro Area",0.0977,0.0977,,,,,,,,,,,,,,
+"Peoria, IL Metro Area",0.2543,0.1632,0.2543,,,,,,,,,,,,,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",0.8,0.6306,0.4193,0.4666,0.5551,0.6364,0.7035,0.7571,0.8,,,,,,,0.5121
+"Phoenix-Mesa-Chandler, AZ Metro Area",0.9832,0.7981,0.6463,0.7031,0.7109,0.7432,0.7753,0.8069,0.8347,0.8588,0.8793,0.8966,0.9113,0.924,0.9349,0.72
+"Pine Bluff, AR Metro Area",,,,,,,,,,,,,,,,
+"Pittsburgh, PA Metro Area",0.8608,0.0742,0.1921,0.3682,0.515,0.6272,0.7112,0.7746,0.823,0.8608,,,,,,0.203
+"Pittsfield, MA Metro Area",,,,,,,,,,,,,,,,
+"Pocatello, ID Metro Area",,,,,,,,,,,,,,,,
+"Port St. Lucie, FL Metro Area",0.3858,0.3858,,,,,,,,,,,,,,
+"Portland-South Portland, ME Metro Area",,,,,,,,,,,,,,,,
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",0.9404,0.4282,0.542,0.6842,0.7325,0.7775,0.8197,0.8553,0.8841,0.9066,0.9251,0.9404,,,,0.5439
+"Poughkeepsie-Newburgh-Middletown, NY Metro Area",0.6385,1.6122,1.8476,0.8974,0.6385,,,,,,,,,,,1.4665
+"Prescott Valley-Prescott, AZ Metro Area",,,,,,,,,,,,,,,,
+"Providence-Warwick, RI-MA Metro Area",0.6891,0.5422,0.6929,0.6731,0.6891,,,,,,,,,,,0.631
+"Provo-Orem, UT Metro Area",,,,,,,,,,,,,,,,
+"Pueblo, CO Metro Area",0.5611,0.5054,0.4634,0.5611,,,,,,,,,,,,0.5091
+"Punta Gorda, FL Metro Area",0.4493,0.4493,,,,,,,,,,,,,,
+"Racine, WI Metro Area",,,,,,,,,,,,,,,,
+"Raleigh-Cary, NC Metro Area",0.2519,0.211,0.2519,,,,,,,,,,,,,
+"Rapid City, SD Metro Area",,,,,,,,,,,,,,,,
+"Reading, PA Metro Area",,,,,,,,,,,,,,,,
+"Redding, CA Metro Area",,,,,,,,,,,,,,,,
+"Reno, NV Metro Area",0.1116,0.1116,,,,,,,,,,,,,,
+"Richmond, VA Metro Area",0.3245,0.3245,,,,,,,,,,,,,,
+"Riverside-San Bernardino-Ontario, CA Metro Area",0.7123,1.4302,1.5151,1.3645,1.2943,0.9492,0.8071,0.7378,0.708,0.6974,0.6966,0.6994,0.7056,0.7123,,1.4371
+"Roanoke, VA Metro Area",,,,,,,,,,,,,,,,
+"Rochester, MN Metro Area",,,,,,,,,,,,,,,,
+"Rochester, NY Metro Area",0.5094,0.0516,0.1776,0.3594,0.5094,,,,,,,,,,,0.1872
+"Rockford, IL Metro Area",0.3475,0.3475,,,,,,,,,,,,,,
+"Rocky Mount, NC Metro Area",0.3127,0.3127,,,,,,,,,,,,,,
+"Rome, GA Metro Area",,,,,,,,,,,,,,,,
+"Sacramento-Roseville-Folsom, CA Metro Area",0.9357,0.8993,0.7311,0.7598,0.8186,0.8065,0.8172,0.8356,0.8534,0.87,0.885,0.8981,0.9092,0.9191,0.9279,0.8022
+"Saginaw, MI Metro Area",0.0651,0.0651,,,,,,,,,,,,,,
+"Salem, OR Metro Area",0.6065,0.3013,0.3564,0.4966,0.6065,,,,,,,,,,,0.3794
+"Salinas, CA Metro Area",0.879,0.3491,0.4898,0.6302,0.7432,0.8246,0.879,,,,,,,,,0.4812
+"Salisbury, MD-DE Metro Area",0.2933,0.1564,0.2933,,,,,,,,,,,,,
+"Salt Lake City, UT Metro Area",0.6127,1.0985,0.748,0.6127,,,,,,,,,,,,0.8358
+"San Angelo, TX Metro Area",,,,,,,,,,,,,,,,
+"San Antonio-New Braunfels, TX Metro Area",0.7994,0.4997,0.4923,0.608,0.7068,0.761,0.7994,,,,,,,,,0.5308
+"San Diego-Chula Vista-Carlsbad, CA Metro Area",0.7806,1.6821,1.0037,0.956,0.9601,0.9408,0.9283,0.8486,0.8077,0.7884,0.7777,0.7731,0.7733,0.7761,0.7806,1.2399
+"San Francisco-Oakland-Berkeley, CA Metro Area",0.9132,0.0419,0.1735,0.356,0.5065,0.6206,0.7056,0.7701,0.8198,0.8584,0.889,0.9132,,,,0.1813
+"San Jose-Sunnyvale-Santa Clara, CA Metro Area",0.8257,0.7375,0.6349,0.6537,0.6965,0.7443,0.7896,0.8257,,,,,,,,0.6787
+"San Luis Obispo-Paso Robles, CA Metro Area",,,,,,,,,,,,,,,,
+"Santa Cruz-Watsonville, CA Metro Area",0.7186,1.2834,0.7186,,,,,,,,,,,,,
+"Santa Fe, NM Metro Area",,,,,,,,,,,,,,,,
+"Santa Maria-Santa Barbara, CA Metro Area",0.8882,0.822,0.8123,0.8142,0.8609,0.8882,,,,,,,,,,0.8165
+"Santa Rosa-Petaluma, CA Metro Area",0.8318,0.7858,0.9088,0.8318,,,,,,,,,,,,0.8395
+"Savannah, GA Metro Area",,,,,,,,,,,,,,,,
+"Scranton--Wilkes-Barre, PA Metro Area",0.754,1.0712,1.1119,0.754,,,,,,,,,,,,0.9861
+"Seattle-Tacoma-Bellevue, WA Metro Area",0.3617,0.0447,0.1802,0.3617,,,,,,,,,,,,0.1862
+"Sebastian-Vero Beach, FL Metro Area",,,,,,,,,,,,,,,,
+"Sebring-Avon Park, FL Metro Area",0.5765,0.5765,,,,,,,,,,,,,,
+"Sheboygan, WI Metro Area",,,,,,,,,,,,,,,,
+"Sherman-Denison, TX Metro Area",,,,,,,,,,,,,,,,
+"Shreveport-Bossier City, LA Metro Area",0.1502,0.1502,,,,,,,,,,,,,,
+"Sierra Vista-Douglas, AZ Metro Area",,,,,,,,,,,,,,,,
+"Sioux City, IA-NE-SD Metro Area",0.2819,0.2819,,,,,,,,,,,,,,
+"Sioux Falls, SD Metro Area",0.7584,0.7584,,,,,,,,,,,,,,
+"South Bend-Mishawaka, IN-MI Metro Area",,,,,,,,,,,,,,,,
+"Spartanburg, SC Metro Area",,,,,,,,,,,,,,,,
+"Spokane-Spokane Valley, WA Metro Area",0.2008,0.0726,0.2008,,,,,,,,,,,,,
+"Springfield, IL Metro Area",,,,,,,,,,,,,,,,
+"Springfield, MA Metro Area",0.4524,0.4679,0.4524,,,,,,,,,,,,,
+"Springfield, MO Metro Area",,,,,,,,,,,,,,,,
+"Springfield, OH Metro Area",,,,,,,,,,,,,,,,
+"St. Cloud, MN Metro Area",,,,,,,,,,,,,,,,
+"St. George, UT Metro Area",1.0165,1.0165,,,,,,,,,,,,,,
+"St. Joseph, MO-KS Metro Area",,,,,,,,,,,,,,,,
+"St. Louis, MO-IL Metro Area",0.7859,0.2194,0.2679,0.4166,0.5496,0.6502,0.727,0.7859,,,,,,,,0.2959
+"State College, PA Metro Area",,,,,,,,,,,,,,,,
+"Stockton, CA Metro Area",0.5451,1.0754,0.5451,,,,,,,,,,,,,
+"Syracuse, NY Metro Area",0.1912,0.0658,0.1912,,,,,,,,,,,,,
+"Tallahassee, FL Metro Area",,,,,,,,,,,,,,,,
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",0.9572,0.7094,0.5888,0.6263,0.6869,0.7489,0.7991,0.8365,0.8647,0.8885,0.9081,0.9241,0.9376,0.9485,0.9572,0.645
+"Terre Haute, IN Metro Area",0.1869,0.1869,,,,,,,,,,,,,,
+"Texarkana, TX-AR Metro Area",,,,,,,,,,,,,,,,
+"Toledo, OH Metro Area",0.5264,0.3443,0.4635,0.5264,,,,,,,,,,,,0.4389
+"Topeka, KS Metro Area",0.0708,0.0708,,,,,,,,,,,,,,
+"Trenton-Princeton, NJ Metro Area",0.4883,0.4883,,,,,,,,,,,,,,
+"Tucson, AZ Metro Area",0.572,0.9391,0.5284,0.5158,0.572,,,,,,,,,,,0.6764
+"Tulsa, OK Metro Area",0.0977,0.0977,,,,,,,,,,,,,,
+"Tuscaloosa, AL Metro Area",,,,,,,,,,,,,,,,
+"Twin Falls, ID Metro Area",0.3433,0.3433,,,,,,,,,,,,,,
+"Tyler, TX Metro Area",,,,,,,,,,,,,,,,
+"Utica-Rome, NY Metro Area",0.0898,0.0898,,,,,,,,,,,,,,
+"Valdosta, GA Metro Area",,,,,,,,,,,,,,,,
+"Vallejo, CA Metro Area",0.6251,0.6103,0.5396,0.6251,,,,,,,,,,,,0.5922
+"Victoria, TX Metro Area",,,,,,,,,,,,,,,,
+"Vineland-Bridgeton, NJ Metro Area",,,,,,,,,,,,,,,,
+"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",0.5649,1.5768,0.4582,0.3659,0.3958,0.4547,0.5129,0.5649,,,,,,,,0.8435
+"Visalia, CA Metro Area",0.4845,1.7605,0.632,0.5183,0.4845,,,,,,,,,,,1.0143
+"Waco, TX Metro Area",,,,,,,,,,,,,,,,
+"Walla Walla, WA Metro Area",0.6402,0.6402,,,,,,,,,,,,,,
+"Warner Robins, GA Metro Area",,,,,,,,,,,,,,,,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",1.0002,0.507,0.6225,0.7269,0.7599,0.8002,0.8398,0.8737,0.8997,0.9202,0.9356,0.9482,0.9588,0.9678,0.9756,0.6121
+"Waterloo-Cedar Falls, IA Metro Area",0.5682,0.5682,,,,,,,,,,,,,,
+"Watertown-Fort Drum, NY Metro Area",0.5574,0.5574,,,,,,,,,,,,,,
+"Wausau-Weston, WI Metro Area",,,,,,,,,,,,,,,,
+"Weirton-Steubenville, WV-OH Metro Area",0.7028,0.9917,0.7028,,,,,,,,,,,,,
+"Wenatchee, WA Metro Area",,,,,,,,,,,,,,,,
+"Wheeling, WV-OH Metro Area",,,,,,,,,,,,,,,,
+"Wichita Falls, TX Metro Area",,,,,,,,,,,,,,,,
+"Wichita, KS Metro Area",0.4213,0.1337,0.2677,0.4213,,,,,,,,,,,,0.2656
+"Williamsport, PA Metro Area",,,,,,,,,,,,,,,,
+"Wilmington, NC Metro Area",,,,,,,,,,,,,,,,
+"Winchester, VA-WV Metro Area",,,,,,,,,,,,,,,,
+"Winston-Salem, NC Metro Area",,,,,,,,,,,,,,,,
+"Worcester, MA-CT Metro Area",0.184,0.0601,0.184,,,,,,,,,,,,,
+"Yakima, WA Metro Area",0.4053,0.3012,0.4053,,,,,,,,,,,,,
+"York-Hanover, PA Metro Area",,,,,,,,,,,,,,,,
+"Youngstown-Warren-Boardman, OH-PA Metro Area",0.8595,0.4261,0.5782,0.6583,0.7289,0.7868,0.8275,0.8595,,,,,,,,0.5467
+"Yuba City, CA Metro Area",0.4667,0.4667,,,,,,,,,,,,,,
+"Yuma, AZ Metro Area",,,,,,,,,,,,,,,,
